@@ -18,7 +18,7 @@ public class PBO {
                 break;
             default:
                 System.out.print("Pilihan Tidak Valid\n");
-                main(args); 
+                main(args);
         }
     }
     public static void admin (String[] args) {
