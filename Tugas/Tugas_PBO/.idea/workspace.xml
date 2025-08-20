@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ca206ed-e14b-4511-9d53-dafb4d9ed2d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Codelab/Modul_5/codelab/codelab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codelab/modul_6/codelab/codelab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codelab/modul_6/codelab/src/TebakAngka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/actions/AdminActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/actions/MahasiswaActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/data/DataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/data/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/gui/AdminDashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/gui/LoginPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/gui/MahasiswaDashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/gui/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/main/LoginSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/users/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/users/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/praktikum/users/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/PBO_G_PutraAkbar_311.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tugas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas_PBO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tugas_PBO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoginSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoginSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mahasiswa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mahasiswa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Tugas/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Tugas/Mahasiswa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Tugas/PBO.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;B4RSKY&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/B4RSKY/PBO_G_PutraAkbar_311.git&quot;,
+    &quot;accountId&quot;: &quot;af4d9717-a3a2-434e-831f-9e6d1620ef24&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2wimLuWAx2nDLpE5NjQdL3ldY6T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoginSystem.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Software/javafx-sdk-17/lib/javafx.web.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/UMM/Semester 2/Pemrograman Berorientasi Object/Praktikum/PBO_G_PutraAkbar_311/Tugas/Tugas_PBO/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.14941406&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="GUI" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.praktikum.gui.MainApp" />
+      <module name="Tugas_PBO" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;D:\Software\javafx-sdk-17\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ca206ed-e14b-4511-9d53-dafb4d9ed2d8" name="Changes" comment="" />
+      <created>1746532717724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746532717724</updated>
+    </task>
+    <servers />
+  </component>
+</project>
